@@ -14,7 +14,7 @@ http://www.example.com
 ## University of Washington (Seattle, WA)
 
 
-**BACHELOR OF ART** (Start Date - End Date)
+**BACHELOR OF ART** (2018 - June, 2020)
 
 Summary of your role
 
