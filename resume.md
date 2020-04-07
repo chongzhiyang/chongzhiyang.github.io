@@ -2,11 +2,11 @@
 
 chyang3@uw.edu
 
-http://www.example.com
+http://chongzhiyang.github.io/
 
 
 # Summary
-
+I am a current senior at University of Washington, majoring in Geography with the GIS, Mapping, and Society track.
 
 
 # Work Experience (only last 10 years)
