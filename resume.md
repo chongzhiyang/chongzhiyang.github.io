@@ -1,16 +1,21 @@
 # Chongzhi Yang
 
-**Email:** chyang3@uw.edu
+**Email:** chongzhi_yang@hotmail.com
 
 **GitHub:** http://chongzhiyang.github.io/
 
+**Linkedin:** https://www.linkedin.com/in/chongzhi-yang-135411165/
 
 # Summary
 I am a current senior at University of Washington, majoring in Geography with the GIS, Mapping, and Society track.
 
+>The greatest glory in living lies not in never falling, but in rising every time we fall.
+>-Nelson Mandela
+
 
 # Work Experience
 
+![Coffee Emoji](http://students.washington.edu/chyang3/Coffee.png)
 
 **Barista** (2019 - 2020)
 University of Washington Housing & Food Services
@@ -24,12 +29,9 @@ University of Washington Housing & Food Services
 **Associate of Arts** (2015 - 2017)
 
 
-## Skills
+# Skills
 
 
-
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+- QGIS
+- ARCGIS
+- HTML
