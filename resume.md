@@ -22,14 +22,14 @@ I am a current senior at University of Washington, majoring in Geography with th
 
 
 # Education
-#### University of Washington (Seattle, WA)
+### University of Washington (Seattle, WA)
 
 
 **Bachelor of Arts**  (2018 - 2020)
 
 >Geography, GMS track
 
-#### Seattle Central College (Seattle, WA)
+### Seattle Central College (Seattle, WA)
 **Associate of Arts** (2015 - 2017)
 
 
