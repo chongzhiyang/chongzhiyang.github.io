@@ -18,10 +18,13 @@ University of Washington Housing & Food Services
 ## University of Washington (Seattle, WA)
 
 
-**Bachelor of Arts** (2018 - 2020)
-Geography, GMS track
+**Bachelor of Arts** Geography, GMS track (2018 - 2020)
 
+## Seattle Central College (Seattle, WA)
 **Associate of Arts** (2015 - 2017)
+
+
+## Skills
 
 
 
