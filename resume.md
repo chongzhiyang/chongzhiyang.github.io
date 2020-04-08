@@ -14,14 +14,9 @@ I am a current senior at University of Washington, majoring in Geography with th
 ## University of Washington (Seattle, WA)
 
 
-**BACHELOR OF ART** (2018 - June, 2020)
+**BACHELOR OF ART** Geography, GMS track (2018 - June, 2020)
 
-Summary of your role
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
 
 
 
