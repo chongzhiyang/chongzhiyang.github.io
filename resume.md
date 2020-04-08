@@ -1,20 +1,27 @@
 # Chongzhi Yang
 
-chyang3@uw.edu
+**Email:** chyang3@uw.edu
 
-http://chongzhiyang.github.io/
+**GitHub:** http://chongzhiyang.github.io/
 
 
 # Summary
 I am a current senior at University of Washington, majoring in Geography with the GIS, Mapping, and Society track.
 
 
-# Work Experience (only last 10 years)
+# Work Experience
+
+
+**Barista** (2019 - 2020)
+University of Washington Housing & Food Services
 
 ## University of Washington (Seattle, WA)
 
 
-**BACHELOR OF ART** Geography, GMS track (2018 - June, 2020)
+**Bachelor of Arts** (2018 - 2020)
+Geography, GMS track
+
+**Associate of Arts** (2015 - 2017)
 
 
 
