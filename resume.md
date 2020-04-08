@@ -15,16 +15,19 @@ I am a current senior at University of Washington, majoring in Geography with th
 
 # Work Experience
 
-![Coffee Emoji](http://students.washington.edu/chyang3/Coffee1.png)  **Barista** (2019 - 2020)  
+![Coffee Emoji](http://students.washington.edu/chyang3/Coffee1.png)  **University of Washington Housing & Food Services** (2019 - 2020)
 
-University of Washington Housing & Food Services
+>Barista
+
 
 
 # Education
 ### University of Washington (Seattle, WA)
 
 
-**Bachelor of Arts** Geography, GMS track (2018 - 2020)
+**Bachelor of Arts**  (2018 - 2020)
+
+>Geography, GMS track
 
 ### Seattle Central College (Seattle, WA)
 **Associate of Arts** (2015 - 2017)
